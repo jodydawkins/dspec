@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/02/22 22:43:08.564.bdsproj,C:\Documents and Settings\jodyd\My Documents\Borland Studio Projects\Project3.bdsproj=C:\Documents and Settings\jodyd\My Documents\Borland Studio Projects\dSpec\tests\dSpecSpecifications.bdsproj</Transaction>
+    <Transaction>2007/02/27 13:58:18.903.pas,C:\Documents and Settings\jodyd\My Documents\Borland Studio Projects\dSpec\specifications\Unit1.pas=C:\Documents and Settings\jodyd\My Documents\Borland Studio Projects\dSpec\source\SpecHelpers.pas</Transaction>
+    <Transaction>2007/02/27 14:16:20.982.pas,C:\Documents and Settings\jodyd\My Documents\Borland Studio Projects\dSpec\source\SpecHelpers.pas=</Transaction>
+    <Transaction>2007/02/27 14:37:51.484.pas,C:\Documents and Settings\jodyd\My Documents\Borland Studio Projects\dSpec\specifications\Unit1.pas=C:\Documents and Settings\jodyd\My Documents\Borland Studio Projects\dSpec\source\ContextIntf.pas</Transaction>
+    <Transaction>2007/02/27 14:47:22.618.pas,C:\Documents and Settings\jodyd\My Documents\Borland Studio Projects\dSpec\source\ContextIntf.pas=C:\Documents and Settings\jodyd\My Documents\Borland Studio Projects\dSpec\source\dSpecIntf.pas</Transaction>
+  </Transactions>
+</BorlandProject>
